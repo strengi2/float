@@ -1,0 +1,10 @@
+img {
+    float: right;
+}
+@media(max-width: 640px){
+img{
+    float: initial;
+    width: 30%;
+    height: auto;
+}
+}
